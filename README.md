@@ -1,4 +1,4 @@
-# UI-Figma-Project-NonCoding-
+# UI-Figma-Project-NonCoding-Report
 Graduate School Project - Using Figma and Fundamentals of Software Engineering
 
 Project Description:
